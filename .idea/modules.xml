@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ASCII_Text_Signature.iml" filepath="$PROJECT_DIR$/.idea/modules/ASCII_Text_Signature.iml" group="ASCII_Text_Signature" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ASCII Text Signature/task/ASCII_Text_Signature-task.iml" filepath="$PROJECT_DIR$/.idea/modules/ASCII Text Signature/task/ASCII_Text_Signature-task.iml" group="ASCII_Text_Signature/ASCII_Text_Signature-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Problems-Arithmetic_expression.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Problems-Arithmetic_expression.iml" group="ASCII_Text_Signature/Problems-Arithmetic_expression" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Date and time formatting/Problems-Date_and_time_formatting.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Date and time formatting/Problems-Date_and_time_formatting.iml" group="ASCII_Text_Signature/Problems-Date_and_time_formatting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array/Problems-Initializing_an_array.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array/Problems-Initializing_an_array.iml" group="ASCII_Text_Signature/Problems-Initializing_an_array" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/N-th symbol/Problems-N-th_symbol.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/N-th symbol/Problems-N-th_symbol.iml" group="ASCII_Text_Signature/Problems-N-th_symbol" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print two numbers on the same line/Problems-Print_two_numbers_on_the_same_line.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print two numbers on the same line/Problems-Print_two_numbers_on_the_same_line.iml" group="ASCII_Text_Signature/Problems-Print_two_numbers_on_the_same_line" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The information about a person/Problems-The_information_about_a_person.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The information about a person/Problems-The_information_about_a_person.iml" group="ASCII_Text_Signature/Problems-The_information_about_a_person" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="ASCII_Text_Signature/util" />
+    </modules>
+  </component>
+</project>

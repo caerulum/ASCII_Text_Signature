@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/ASCII Text Signature/task/out/
+/ASCII Text Signature/task/out/production/classes/
+/ASCII Text Signature/task/out/test/classes/
+/Problems/Date and time formatting/out/
+/Problems/Date and time formatting/out/production/classes/
+/Problems/N-th symbol/out/
+/Problems/N-th symbol/out/production/classes/
+/Problems/The information about a person/out/
+/Problems/The information about a person/out/production/classes/
